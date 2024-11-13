@@ -1,0 +1,12 @@
+Whats needed: 
+
+GTA III files suitable for WiiU + loadiine Homebrew (HB launcher via Haxchi) + big and fast enough (min. Class 10!) SD card with FAT Format (no NTFS!) + compiled Exe of WiiU version
+
+instructions to use my new optimized GTA III version for WiiU:
+
+Make sure you have GTA III allready downloaded. Any Steam/PC (Disc) outdated version is OK but it´s best to just use the WiiU version´s files from the original download. Links can still be found somewhere in the net. You will only need the game files of that. The compiled Exe of WiiU (RPX) can still be found in the internet as well, you have to just search a bit.
+Now:
+Switch out your SD card. You will need a PC or any other tool to copy the new files over to your SD card (older Android smartphones might support copying those files too). The files will be overwritten.
+Then plug in your SD card into your WiiU again. Open Loadiine Homebrew launcher (you need to install it, if you don´t allready have it!, Loadiine is supported when you have Haxchi!). Start your game with the homebrew Launcher of Loadiine. You have to use Miimaker mode to make the game working.
+
+Follow the guidelines of "Loadiine" usage for further instructions on where to put the files. The instructions are very simple and typically you have to copy the files just into the homefolder where your game`s folder is. You cannot use this mod/patch in unsupported homebrew such as Tiramisu or Aroma, since this required unencrypted content. You need to have plain access to the filesystem of the game to make the necessary changes.
